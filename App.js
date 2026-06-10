@@ -1,3 +1,7 @@
+const PAYPAL_LINK = "https://www.paypal.com/paypalme/YOUR_PAYPAL_USERNAME";
+const AMAZON_LINK = "https://www.amazon.com/author/YOUR_AUTHOR_PAGE";
+
+
 import { useState, useEffect, useCallback } from "react";
 
 // ─────────────────────────────────────────────
